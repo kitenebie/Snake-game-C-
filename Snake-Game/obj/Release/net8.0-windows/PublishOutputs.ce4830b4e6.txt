@@ -1,0 +1,5 @@
+C:\Users\kenne\source\repos\Snake-Game\Snake-Game\bin\Release\net8.0-windows\app.publish\Snake-Game.exe
+C:\Users\kenne\source\repos\Snake-Game\Snake-Game\bin\Release\net8.0-windows\app.publish\Snake-Game.dll
+C:\Users\kenne\source\repos\Snake-Game\Snake-Game\bin\Release\net8.0-windows\app.publish\Snake-Game.deps.json
+C:\Users\kenne\source\repos\Snake-Game\Snake-Game\bin\Release\net8.0-windows\app.publish\Snake-Game.runtimeconfig.json
+C:\Users\kenne\source\repos\Snake-Game\Snake-Game\bin\Release\net8.0-windows\app.publish\Snake-Game.pdb
