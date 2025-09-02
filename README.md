@@ -150,4 +150,4 @@ If you encounter any issues or have questions:
 
 **Enjoy the game!** 🎮
 
-*Made with ❤️ by [Your Name]*
+*Made with ❤️ vibe code by kitenebie*
