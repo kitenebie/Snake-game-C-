@@ -13,8 +13,16 @@ A classic Snake game implementation built with C# Windows Forms, featuring smoot
 - **Game Over Detection**: Collision detection with walls and self
 
 ## Screenshots
-
-
+### Start
+![snake](docs/1.png)
+---
+### Gane Over 1
+![snake](docs/2.png)
+---
+### Gane Over 2
+![snake](docs/3.png)
+---
+---
 ## Controls
 
 | Key | Action |
