@@ -495,7 +495,7 @@ private void LoadHighScore() { /* Registry.GetValue(...) */ }
 - Load: Retrieve high score from registry (default to 0 if none)
 - May try-catch para handle registry access errors
 ## FULL CODE
-** SnakeGame.cs **
+### SnakeGame.cs
 ``` csharp
 using Microsoft.Win32;
 using System;
