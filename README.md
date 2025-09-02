@@ -147,7 +147,7 @@ If you encounter any issues or have questions:
 
 ---
 
-# Snake Game Code Explanation (Tagalog Conyo Style) 🐍
+# Snake Game Code Explanation 🐍
 
 ## Using Statements (Line 1-8)
 ```csharp
