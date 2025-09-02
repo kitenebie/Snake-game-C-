@@ -14,7 +14,6 @@ A classic Snake game implementation built with C# Windows Forms, featuring smoot
 
 ## Screenshots
 
-*Add screenshots of your game here*
 
 ## Controls
 
